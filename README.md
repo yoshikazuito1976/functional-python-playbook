@@ -50,4 +50,59 @@
 ---
 
 ## ディレクトリ構成（予定）
+functional-python-playbook/
+├── README.md
+├── 00_philosophy/
+│ └── why_functional.md
+├── 01_basics/
+│ ├── pure_function.py
+│ ├── side_effect.py
+│ └── immutability.py
+├── 02_collections/
+│ ├── map_filter.py
+│ ├── reduce.py
+│ └── comprehension_vs_fp.py
+├── 03_design/
+│ ├── function_boundary.md
+│ └── data_flow.py
+├── 04_exercises/
+│ └── exercises.md
+└── LICENSE
+
+
+※ 学習の進行に応じて変更されます。
+
+---
+
+## 学び方のおすすめ
+
+1. **コードを読む**
+2. 「何が入力で、何が出力か」を確認する
+3. 副作用がどこにあるかを探す
+4. 関数をさらに小さくできないか考える
+5. 命令型と比較して違いを言語化する
+
+---
+
+## このリポジトリの位置づけ
+
+- 教育目的での利用・Fork・改変は自由です
+- 在職中／学習中の知見を整理するための公開リポジトリです
+- 将来的に内容が増減・整理される可能性があります
+
+---
+
+## ライセンス
+
+このリポジトリは **非常に緩やかなライセンス** を採用しています。  
+詳細は `LICENSE` を参照してください。
+
+---
+
+## 最後に
+
+「関数型っぽく書く」ことが目的ではありません。  
+**考え方が整理され、他人に説明できる Python** を目指しましょう。
+
+
 
