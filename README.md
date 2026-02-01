@@ -50,6 +50,7 @@
 ---
 
 ## ディレクトリ構成（予定）
+```text
 functional-python-playbook/
 ├── README.md
 ├── 00_philosophy/
@@ -68,6 +69,7 @@ functional-python-playbook/
 ├── 04_exercises/
 │ └── exercises.md
 └── LICENSE
+```
 
 
 ※ 学習の進行に応じて変更されます。
